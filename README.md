@@ -1,7 +1,5 @@
 # AURA - Authentic Unified Relationship Algorithm
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=AURA+Content+Recommendation+System)
-
 A semantic content aggregation and recommendation system powered by CLIP multimodal embeddings. Integrates articles from Medium and images from Unsplash to provide personalized content feeds.
 
 ## Features
